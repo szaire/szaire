@@ -2,7 +2,7 @@
 - 🇧🇷 Ceará, Brazil
 - 💻 Computer Science Student (UNIFOR - 2nd Quarter)
 - 🌱 I’m currently learning basics of Git and Github, Computer Architecture and C++ programming language
-- 🎓 Academic Experience in: JavaScript, Java (OOP) and Algorithm Development in Linear Algebra.
+- 🎓 Academic Experience in: JavaScript, Java (OOP) and Algorithm Development in Linear Algebra with Java.
 
 <!---
 szaire/szaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
