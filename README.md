@@ -1,7 +1,7 @@
 - 👨‍💻 Samuel Zaire Rocha, 19 yo
 - 🇧🇷 Ceará, Brazil
 - 💻 Computer Science Student (UNIFOR - 3th Period)
-- 🌱 I’m currently learning basics of Git and Github, Computer Architecture and C++ programming language
+- 🌱 I’m currently learning basics of Git and Github, Python for Data Science and Full Stack Web Development
 - 🎓 Academic Experience in: JavaScript, Java (OOP) and Algorithm Development in Linear Algebra with Java.
 
 <!---
