@@ -3,6 +3,7 @@
 - 💻 Computer Science Student (UNIFOR - 5th Semester)
 - 🌱 I’m currently learning basics of Web Development (React and Node JS)
 - 🎓 Academic Experience in: JavaScript, Java (OOP), Algorithm Development in Linear Algebra (Java), OOP (Java) and Data Structure (Java).
+- 💼 Currently working with **OAB-CE (Ordem dos Advogados do Brasil - Subseção do Ceará)** as **Administrative Young Apprentice** in IT field.
 
 <!---
 szaire/szaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
