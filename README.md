@@ -1,4 +1,4 @@
-- 👨‍💻 Samuel Zaire Rocha, 20 yo
+- 👨‍💻 Samuel Zaire Rocha, 21 yo
 - 🇧🇷 Ceará, Brazil
 - 💻 Computer Science Student (UNIFOR - 5th Semester)
 - 🌱 I’m currently learning basics of C++ Programming Language 
