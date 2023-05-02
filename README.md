@@ -1,8 +1,8 @@
 - 👨‍💻 Samuel Zaire Rocha, 21 yo
 - 🇧🇷 Ceará, Brazil
 - 💻 Computer Science Student (UNIFOR - 5th Semester)
-- 🌱 I’m currently learning basics of C++ Programming Language 
-  - 📚 Beginning C++ through Game Programming - Michael Dawson
+- 🌱 I’m currently learning basics of .NET Core
+  - Formaç
 - 🎓 Academic Experience in: JavaScript, Java (OOP), Algorithm Development in Linear Algebra (Java), OOP (Java) and Data Structure (Java).
 - 💼 Currently working with **OAB-CE (Ordem dos Advogados do Brasil - Subseção do Ceará)** as **Administrative Young Apprentice** in IT field.
 
