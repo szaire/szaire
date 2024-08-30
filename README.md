@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning basics of .NET Core
   - Formação .NET Developer - DIO
 - 🎓 Academic Experience in: JavaScript, Java (OOP), Algorithm Development in Linear Algebra (Java), OOP (Java) and Data Structure (Java).
-- 💼 Currently working with **Delícia Mineira e Gosto Mineiro** as **Developer and Administrative Auxiliary** in IT field.
+<!--- - 💼 Currently working with **Delícia Mineira e Gosto Mineiro** as **Developer and Administrative Auxiliary** in IT field.
 
 <!---
 szaire/szaire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
